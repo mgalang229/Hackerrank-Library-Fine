@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Solution {
 	
 	public static void main(String[] args) {	
 		FastScanner fs = new FastScanner();
